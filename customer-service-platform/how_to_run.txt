@@ -1,0 +1,5 @@
+
+/home/project/customer-service-platform
+
+mvn package
+mvn exec:java -Dexec.mainClass="com.retailstore.feedback.SentimentAnalyzer"
